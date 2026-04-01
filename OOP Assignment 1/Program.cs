@@ -43,6 +43,27 @@
             // }
 
             #endregion
+
+            #region Question 02
+
+            /*  public → accessible from anywhere.
+
+                private → accessible only inside the same class. */
+
+            //class Car
+            //{
+            //    public string Model;
+            //    private int Speed;
+
+            //    public void SetSpeed(int s)
+            //    {
+            //        Speed = s;
+            //    }
+            //}
+
+
+            #endregion
+
         }
 
 
