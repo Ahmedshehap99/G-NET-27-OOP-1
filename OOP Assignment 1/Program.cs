@@ -139,6 +139,19 @@
             //ticket.PrintTicket(14);
 
             #endregion
+            
+            #region Question 0102
+            //public class Person
+            // {
+            //     public string Name;
+            // }
+
+            // public struct PersonStr
+            // {
+            //     public string Name;
+            // }
+
+            #endregion
 
 
 
