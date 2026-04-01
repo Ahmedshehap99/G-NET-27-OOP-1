@@ -86,6 +86,26 @@
 
                 Select the library. */
             #endregion
+            #region Question 04
+
+
+
+            /* Q4: What is a Class Library?
+
+                A Class Library is a collection of reusable classes and methods packaged into a DLL.
+
+                Why use it?
+
+                Code reuse
+
+                Better organization
+
+                Easier maintenance
+
+                Separation of concerns */
+
+            #endregion
+
 
 
 
